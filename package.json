@@ -1,11 +1,8 @@
 {
-  "name": "toy-mocha-template-cl",
+  "name": "Make Change",
   "version": "1.0.0",
-  "description": "Toy Problems with Mocha/Chai tests",
+  "description": "Toy Problem - Skipping Mocha Test",
   "main": "toy.js",
-  "scripts": {
-    "test": " ./node_modules/mocha/bin/mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pablobrady/toy-mocha-template.git"
@@ -24,7 +21,6 @@
     "test": "test"
   },
   "keywords": [
-    "mocha",
     "test",
     "toy",
     "problem"
